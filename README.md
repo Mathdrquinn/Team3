@@ -1,6 +1,6 @@
 @home
 ======
-Brendan Quinn, Liz Kline, Belinda Hare, Ben Linville
+Brendan Quinn, [Liz Kline](https://github.com/lizkline91), [Belinda Hare](https://github.com/belindahare), [Ben Linville](https://github.com/bjlinville1)
 ----------------------------------------------------
 
 This web application was a project designed to bring the front-end students of The Iron Yard together
